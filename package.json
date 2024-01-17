@@ -1,0 +1,23 @@
+{
+  "name": "small-node-project",
+  "version": "1.0.0",
+  "description": " A sample project demonstrating the functionality of Node and npm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/besioini/node-js.git"
+  },
+  "author": "Brahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/besioini/node-js/issues"
+  },
+  "homepage": "https://github.com/besioini/node-js#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
